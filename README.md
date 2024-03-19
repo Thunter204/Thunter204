@@ -1,6 +1,6 @@
 [<img src="https://i.pinimg.com/originals/99/47/40/994740e9184662894392a1715bbeee14.gif" width="100%">](https://Thunter204.io)
 <h1 align="center">Hi 👋, I'm Toni Hunter</h1>
-<h3 align="center">I am a Fresh Grad and passionate passionate developer from the US!</h3>
+<h3 align="center">I am a Fresh Grad and passionate developer from the US!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thunter204&label=Profile%20views&color=0e75b6&style=flat" alt="thunter204" /> </p>
 

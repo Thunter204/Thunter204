@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **The Complete 2024 Web Development Bootcamp**
 
-- 📫 How to reach me **tmarieh240@gmail.com**
+- 📫 How to reach me **tmarieh240@gmail.comm**
 
 - ⚡ Fun fact **I really love nature and plants!**
 

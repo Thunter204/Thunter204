@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thunter204&label=Profile%20views&color=0e75b6&style=flat" alt="thunter204" /> </p>
 
-- 🌱 I’m currently learning **The Complete 2024 Web Development Bootcamp**
+- currently learning **The Complete 2024 Web Development Bootcamp**
 
-- 📫 How to reach me **tmarieh240@gmail.comm**
+- How to reach me: **tmarieh240@gmail.com**
 
-- ⚡ Fun fact **I really love nature and plants!**
+- Fun fact **I really love nature and plants!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

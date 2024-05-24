@@ -1,5 +1,5 @@
 
-[<img src="https://static.skillshare.com/uploads/users/tmp/1ea3c20d.gif" style="display:block;margin-left:auto;margin-right:auto;" width="100%">"](https://Thunter204.io)
+[<img src="https://static.skillshare.com/uploads/users/tmp/1ea3c20d.gif" width="100%">"](https://Thunter204.io)
 <h1 align="center">Hi 👋, I'm Toni Hunter</h1>
 <h3 align="center">Hello! I am a Rutgers University Graduate with a Bachelors in Computer Science with a Certification in Cybersecurity. I have proficient skills in Python, JavaScript, C/C++ and am currently developing my skills for Full-Stack. I Love learning more and discovering what the world has to offer. I am attentive, hardworking, adaptable, and collaborative. Welcome to my GitHub :) </h3>
 

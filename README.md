@@ -1,14 +1,12 @@
 [<img src="https://i.pinimg.com/originals/99/47/40/994740e9184662894392a1715bbeee14.gif" width="100%">](https://Thunter204.io)
 <h1 align="center">Hi 👋, I'm Toni Hunter</h1>
-<h3 align="center">I am a Fresh Grad and passionate developer from the US!</h3>
+<h3 align="center">Hello! I am a Rutgers University Graduate with a Bachelors in Computer Science with a Certification in Cybersecurity. I have proficient skills in Python, JavaScript, C/C++ and am currently developing my skills for Full-Stack. I Love learning more and discovering what the world has to offer. I am attentive, hardworking, adaptable, and collaborative. Welcome to my GitHub :) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thunter204&label=Profile%20views&color=0e75b6&style=flat" alt="thunter204" /> </p>
 
-- currently learning **The Complete 2024 Web Development Bootcamp**
+- Currently work: **The Complete 2024 Web Development Bootcamp**
 
-- How to reach me: **tmarieh240@gmail.com**
-
-- Fun fact **I really love nature and plants!**
+- Email: **tmarieh240@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

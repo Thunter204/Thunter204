@@ -1,8 +1,4 @@
-/*https://static.skillshare.com/uploads/users/tmp/1ea3c20d.gif*/
-/*"https://i.pinimg.com/originals/99/47/40/994740e9184662894392a1715bbeee14.gif"*/
-
-
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.skillshare.com%2Fen%2Fuser%2Fraginideshmukh&psig=AOvVaw25jQvZ2XjvTSFvRg0yT5T7&ust=1716608886610000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPia7sqwpYYDFQAAAAAdAAAAABAJ" width="100%">](https://Thunter204.io)
+[<img src="https://static.skillshare.com/uploads/users/tmp/1ea3c20d.gif" width="100%">](https://Thunter204.io)
 <h1 align="center">Hi 👋, I'm Toni Hunter</h1>
 <h3 align="center">Hello! I am a Rutgers University Graduate with a Bachelors in Computer Science with a Certification in Cybersecurity. I have proficient skills in Python, JavaScript, C/C++ and am currently developing my skills for Full-Stack. I Love learning more and discovering what the world has to offer. I am attentive, hardworking, adaptable, and collaborative. Welcome to my GitHub :) </h3>
 

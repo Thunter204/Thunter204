@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thunter204&label=Profile%20views&color=0e75b6&style=flat" alt="thunter204" /> </p>
 
-- Currently work: **The Complete 2024 Web Development Bootcamp**
+- Current work: **The Complete 2024 Web Development Bootcamp**
 
 - Email: **tmarieh240@gmail.com**
 
